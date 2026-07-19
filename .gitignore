@@ -1,0 +1,14 @@
+.env
+
+# Application Storage & Local Database
+data/
+*.db
+
+logs/
+
+# Python Cache & Environment Files
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
